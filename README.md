@@ -41,9 +41,11 @@ Saudi Arabia's arms import dependency peaked at **10.85%** in May 2015 during th
 | File | Description |
 |---|---|
 | `GitHub_Final_Project.ipynb` | Complete analysis notebook (14 cells) |
-| `RCEL506_Final_Presentation_v2.pptx` | Final presentation slides |
+| `RCEL506_Final_Presentation_GitHub.pptx` | Final presentation slides |
 | `TradeData_2010.csv` ... `TradeData_2024.csv` | UN Comtrade monthly arms imports to Saudi Arabia |
 | `sipri_milex_raw.xlsx` | SIPRI military expenditure database |
+| `OWLET_Performance_Report.pdf` | OWLET-AI performance evaluation report |
+| `owlet_report.py` | Python code that generated the OWLET PDF |
 
 ---
 
